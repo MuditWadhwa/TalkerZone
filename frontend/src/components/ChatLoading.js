@@ -3,8 +3,7 @@ import React from 'react'
 
 const ChatLoading = () => {
     return (
-        <Stack>
-        
+        <Stack>        
             <Skeleton height='20px' />
   <Skeleton height='45px'/>
   <Skeleton height='45px'/>
